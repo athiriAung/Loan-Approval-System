@@ -1,7 +1,7 @@
 # Loan-Approval-System
 Evaluate customer's loan request by using classification method -													
 ATA Bank Loan Approval Method- how to prepare dataset.															
-Features -
+Features(8) -
 (1)Age = if applicant's age is older than 60, change 0 else 1# 
 (2)Dependents = if applicant has more than 3 dependents in his family, change to 0 else 1# 
 (3)Education = if he is graduated, change to 2, else 1# 
@@ -18,6 +18,7 @@ True Negative  - ATA bank did not approves loan request and system also agree#
 False Negative - System approves loan request and ATA bank did not allow.
 Python Coding
 1-Read dataset
+Rows =3543 #
 No    1922
 Yes   1621.
 2-Split into train size=70% and test size=30%.
