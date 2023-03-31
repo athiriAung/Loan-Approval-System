@@ -23,7 +23,7 @@ Features(8) -
 
 Target -
 
-Loan_Status = add all 8 features and if the number is > 12, Yes else No# 
+Loan_Status = add all 8 features and if the value is > 12, Yes else No# 
 
 True Positive  - ATA bank approves loan request but system also agree# 
 
