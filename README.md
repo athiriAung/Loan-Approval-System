@@ -25,11 +25,11 @@ Target -
 
 Loan_Status = add all 8 features and if the value is > 12, Yes else No# 
 
-True Positive  - ATA bank approves loan request but system also agree# 
+True Positive  - ATA bank approves loan request and system also agree# 
 
 False Positive - System approves loan request but ATA bank did not allow.
 
-True Negative  - ATA bank did not approves loan request but system also agree# 
+True Negative  - ATA bank did not approves loan request and system also agree# 
 
 False Negative - System rejects loan request but ATA allows that loan request# 
 
