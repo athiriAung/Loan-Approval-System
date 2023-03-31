@@ -41,6 +41,7 @@ No    1922
 Yes   1621.
 
 2-Split into train size=70% and test size=30%.
+
 3-KNN classifier.
 
 4-Logistic Regression.
