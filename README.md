@@ -55,3 +55,5 @@ Poly Kernel#
 Gaussian#
 
 Correlation by Logistic Regression for testing.
+
+Most methods can predict the result correctly.
